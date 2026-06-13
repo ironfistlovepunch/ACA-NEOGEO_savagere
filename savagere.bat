@@ -44,5 +44,3 @@ del m1.bin
 
 REM compress
 powershell Compress-Archive 059*.* -Force -DestinationPath savagere.zip
-
-copy savagere.zip romcenter
