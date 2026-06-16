@@ -2,7 +2,8 @@
 風雲黙示録 ～格闘創世～ アケアカNEOGEO  
 https://play.google.com/store/apps/details?id=com.snk.acasavagere  
 
-確認バージョン 1.2.0  
+確認  
+バージョン 1.2.0  
 最終更新日 2025/10/31  
 
 必要なファイル  
